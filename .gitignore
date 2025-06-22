@@ -1,0 +1,18 @@
+# Node modules
+client/node_modules/
+
+# Environment variables
+client/.env
+
+# Logs
+logs/
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Others (optional)
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
